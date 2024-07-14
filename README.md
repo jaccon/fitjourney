@@ -6,7 +6,8 @@ This mono repo you can check the source code to application FitJourney
 
   
 
-![Screenshot]([URL](https://www.jaccon.com.br/content/images/size/w1600/2024/07/Screen-Shot-Jaccon-2024-07-13-at-17.56.34.png))
+![Screenshot of Jaccon](https://www.jaccon.com.br/content/images/size/w1600/2024/07/Screen-Shot-Jaccon-2024-07-13-at-17.56.34.png)
+
 
 
   To know more about this project access https://www.jaccon.com.br/fitjourney-python-to-fitness-application/
