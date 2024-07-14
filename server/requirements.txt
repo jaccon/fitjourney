@@ -1,0 +1,6 @@
+pygame
+opencv-python
+dlib
+requests
+flask
+pillow

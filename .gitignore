@@ -1,0 +1,5 @@
+node_modules
+yarn.lock
+client-expo-app/node_modules
+server/assets/video/forest.mp4
+.mp4
